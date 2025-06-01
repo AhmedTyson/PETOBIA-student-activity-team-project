@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login - Pet Adoption</title>
+    <link rel="stylesheet" href="static/CSS/styles.css"/>
+    <link rel="stylesheet" href="static/CSS/login.css"/>
+
+  </head>
+  <body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+      <img src="/static/images/Petopia-01.png" alt="PETOPIA_LOGO" class="LOGO">
+      <ul>
+        <li><a href="/homepage.html" class="login-button">Homepage</a></li>
+    </ul>
+
+    </nav>
+
+    
+    <div class="login-container">
+      <div class="login-box">
+        <div class="PETOPIA"><h1>P E T O P I A</h1></div> 
+        <h3>Login</h3>
+        <form method="POST" action="/login.html">
+          <div class="input-box">
+            <input type="text" id="username" name="username" required />
+            <label for="username">Username</label>
+          </div>
+          <div class="input-box">
+            <input type="password" id="password" name="password" required />
+            <label for="password">Password</label>
+          </div>
+          <div class="input-box">
+            <input type="submit" value="Login" class="login-button"/>
+          </div>
+
+          <div class="signup-link">
+            <p>
+              Don't have an account? <a href="/signup.html">Sign up</a> |
+              <a href="forget password">Forgot Password?</a>
+            </p>
+          </div>
+        </form>
+      </div>
+      
+      
+    </div>
+  </body>
+</html>
+
