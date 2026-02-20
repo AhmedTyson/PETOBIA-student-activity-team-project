@@ -1,41 +1,34 @@
-# PETOPIA
+# PETOBIA — Student Activity Team Project
 
-**PETOPIA** is an innovative online platform dedicated to connecting loving families with pets in need of a forever home. The project aims to make pet adoption simple, transparent, and accessible, while also providing a suite of services for pet owners.
+> A multi-page student activity website for a pet adoption and welfare organization, built with HTML and CSS as a collaborative team project.
 
-## Features
+## Overview
 
-- 🐾 **Pet Adoption Listings:** Browse available pets for adoption with detailed profiles.
-- 📝 **User Registration & Login:** Secure sign-up and login for users.
-- 📋 **Contact Form:** Easily reach out to the PETOPIA team for inquiries or support.
-- 📚 **Service Directory:** Explore a variety of pet-related services, including veterinary care, grooming, training, and more.
-- 👥 **About Us:** Learn about the PETOPIA mission, locations, and the team behind the project.
-- 🌐 **Responsive Design:** Modern, user-friendly interface optimized for all devices.
-- 🔗 **Social Media Integration:** Connect with PETOPIA on popular social platforms.
+PETOBIA is a student-run pet adoption initiative website designed to raise awareness and facilitate animal adoption. Developed as a collaborative academic project, the site covers the full informational surface of a real nonprofit: a homepage, adoption listings, services, member login and signup, and a contact page. The project showcases teamwork in frontend development, focusing on clear site architecture, semantic HTML, and cohesive CSS styling across all pages.
 
-## Usage
+## 💻 Tech Stack
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/PETOBIA-student-activity-team-project.git
-   ```
-2. **Open the project folder and launch `homepage.html` in your browser.**
+- **Frontend:** HTML5, CSS3
+- **Assets:** Static images and media
 
-3. **Navigate the platform:**
-   - Use the navigation bar to access the homepage, about, contact, signup, and login pages.
-   - Browse adoption listings or explore available services.
-   - Register for an account or log in to access more features.
+## ✨ Key Features
 
-## Example
+- **Adoption Portal:** A dedicated page listing animals available for adoption.
+- **Service Pages:** Detailed descriptions of pet welfare services offered.
+- **User Auth Pages:** Login and signup pages for community member registration.
+- **Contact Page:** A form and contact details for prospective adopters to reach the organization.
 
-- **Adoption:**  
-  Visit the [Adoption page](adoption.html) to view pets available for adoption, including their details and contact information.
+## 🚀 Getting Started
 
-- **Contact Us:**  
-  Use the [Contact page](contact.html) to send a message to the PETOPIA team.
+```bash
+# Clone the repository
+git clone https://github.com/AhmedTyson/PETOBIA-student-activity-team-project.git
 
-- **Sign Up / Login:**  
-  Create an account via [Sign Up](signup.html) or access your account via [Login](login.html).
+# Navigate to the directory
+cd PETOBIA-student-activity-team-project
 
----
+# Open in browser
+open homepage.html
+```
 
-
+> No dependencies or build step required.
