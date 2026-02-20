@@ -1,14 +1,19 @@
-# PETOBIA — Student Activity Team Project
+# <img src="https://api.iconify.design/lucide:users.svg?color=%238A2BE2" width="32" height="32" align="center" /> PETOBIA Team Project
 
-> A multi-page responsive website for a student-run pet adoption initiative — built collaboratively with HTML5 and CSS3.
+> **A multi-page responsive website for a student-run pet adoption initiative.**
+> Developed collaboratively using HTML5 and CSS3, practicing unified UI design across team-built pages.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Team Project](https://img.shields.io/badge/Type-Team_Project-green?style=for-the-badge)
+<div align="center">
+
+| Project Status | Type                                                                                    | Strategy                                                                                         | Deployment           |
+| :------------- | :-------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- | :------------------- |
+| `STABLE`       | ![Team Project](https://img.shields.io/badge/Type-Team_Project-green?style=flat-square) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | `Local/GitHub Pages` |
+
+</div>
 
 ---
 
-## 📋 Table of Contents
+## <img src="https://api.iconify.design/lucide:list.svg?color=%238A2BE2" width="20" height="20" align="center" /> Table of Contents
 
 - [Overview](#overview)
 - [Pages](#-pages)
@@ -27,7 +32,9 @@ The primary goals were to practice **multi-page site architecture**, semantic HT
 
 ---
 
-## 📄 Pages
+---
+
+## <img src="https://api.iconify.design/lucide:file-text.svg?color=%238A2BE2" width="20" height="20" align="center" /> Pages
 
 | Page         | File            | Description                                                 |
 | ------------ | --------------- | ----------------------------------------------------------- |
@@ -41,7 +48,9 @@ The primary goals were to practice **multi-page site architecture**, semantic HT
 
 ---
 
-## 💻 Tech Stack
+---
+
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Stack
 
 | Layer            | Technology                                              |
 | ---------------- | ------------------------------------------------------- |
@@ -52,7 +61,9 @@ The primary goals were to practice **multi-page site architecture**, semantic HT
 
 ---
 
-## 🎨 Design Highlights
+---
+
+## <img src="https://api.iconify.design/lucide:palette.svg?color=%238A2BE2" width="20" height="20" align="center" /> Design Highlights
 
 - **Pet-centric visual design** — warm, approachable palette with animal imagery throughout
 - **Mobile-first layout** — responsive grid adapts from mobile to desktop
@@ -62,7 +73,9 @@ The primary goals were to practice **multi-page site architecture**, semantic HT
 
 ---
 
-## 📁 Project Structure
+---
+
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Structure
 
 ```
 PETOBIA-student-activity-team-project/
@@ -83,7 +96,9 @@ PETOBIA-student-activity-team-project/
 
 ---
 
-## 🚀 Getting Started
+---
+
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238A2BE2" width="20" height="20" align="center" /> Getting Started
 
 ```bash
 # Clone the repository
